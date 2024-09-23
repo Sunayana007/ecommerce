@@ -9,7 +9,7 @@ import logo from './NaturalWallpaper.png'
 import search_icon from './search icon.jpg'
 import profile_icon from './profile icon.jpg'
 import cart_icon from './cart icon.jpg'
-
+import menu_icon from './menu icon.jpg'
 
 export const assets = {
     leaf_wallpaper,
@@ -22,7 +22,8 @@ export const assets = {
     logo,
     search_icon,
     profile_icon,
-    cart_icon
+    cart_icon,
+    menu_icon
     
 }
 
