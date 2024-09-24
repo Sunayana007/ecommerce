@@ -29,7 +29,7 @@ export const assets = {
 
 export const products = [
     {
-        _id:"aaaaa",
+        _id:"aaaab",
         name:"wallpaper",
         description:"abcd" ,
         price:100,
@@ -38,5 +38,24 @@ export const products = [
         size:"1mtr",
         bestseller: true
     },
-    
+    {
+        _id:"aaaaa",
+        name:"wallpaper1",
+        description:"abcdc" ,
+        price:100,
+        image:[leaf_wallpaper,kids_1,kids_2,flower_1,flower_2,wallpaper,wallpaper_1],
+        category:"natural wallpaperr",
+        size:"1mtr",
+        bestseller: true
+    },
+    {
+        _id:"aaaac",
+        name:"wallpaper1",
+        description:"abcdc" ,
+        price:100,
+        image:[leaf_wallpaper,kids_1,kids_2,flower_1,flower_2,wallpaper,wallpaper_1],
+        category:"natural wallpaperr",
+        size:"1mtr",
+        bestseller: true
+    }
 ]
